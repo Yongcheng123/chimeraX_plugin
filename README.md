@@ -8,7 +8,7 @@ This is a deeplearning based bundle for ChimeraX (for macOS).
 
 > Download [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html). 
 
-  * Dependencies (The dependencies don't need to be installed manually)
+  * Dependencies (The dependencies don't need to be installed manually, you may update dependencies versions through bundle_info.xml)
 >   ChimeraX-Core version="~=1.0"
 
 >   [Torch >=1.4.0](https://pytorch.org/)
